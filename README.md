@@ -1,11 +1,11 @@
-# Classification with Playground Series - S4E10
-**Kaggle Playground October 2024** - Exploring Mental Health Data
+# Classification with Playground Series - S4E11
+**Kaggle Playground November 2024** - Exploring Mental Health Data
 
-[About the Tabular Playground Series](https://www.kaggle.com/competitions/playground-series-s4e10)
+[About November Challenge](https://www.kaggle.com/competitions/playground-series-s4e11)
 
 **Evaluation:** Submissions are evaluated using accuracy score.
 
-**Learning:** 
+**Learnings:** 
 - Use predict_proba and threshold to make final classification (0 or 1), instead of predict
 - Apply Statistic in EDA for feature engineering
 
